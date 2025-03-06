@@ -7,7 +7,11 @@
     align-items: center;
     justify-content: center;
     color: #36364c;
-    height: 96px;
+    height: 300px;
+    background-color: #f9f9f9;
+  }
+
+  footer {
     background-color: #f9f9f9;
   }
   
@@ -52,12 +56,12 @@
   }
 
   .logo-header {
-    font-size: 100px;
+    font-size: 76px;
   }
 </style>
 
 <header>
-  <p class="logo">::::bitquery</p>
+  <p class="logo logo-header">::::bitquery</p>
 </header>
 
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
