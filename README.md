@@ -6,6 +6,7 @@
     font-size: large;
     font-weight: bold;
     border: 3px solid gray;
+    border-radius: 3px;
   }
 
   .ad-small {
@@ -15,6 +16,7 @@
     font-size: large;
     font-weight: bold;
     border: 3px solid gray;
+    border-radius: 3px;
   }
 </style>
 
