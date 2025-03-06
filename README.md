@@ -138,3 +138,7 @@
   }
   </script>
 </div>
+
+<footer>
+  Inquiries: contact@bitquery.com
+</footer>
