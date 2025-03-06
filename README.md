@@ -26,6 +26,10 @@
     color: #ececec;
   }
 
+  .footer-section {
+    padding-top: 70px;
+  }
+
   .spacer {
     height: 25px;
   }
@@ -140,7 +144,7 @@
 </div>
 
 <footer>
-  <section>
+  <section class="footer-section">
     <div>
         <div>
             <nav>
