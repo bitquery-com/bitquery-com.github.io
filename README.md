@@ -6,8 +6,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 20vmin;
-    font-weight: 900;
     color: #36364c;
     height: 96px;
     background-color: #f9f9f9;
@@ -47,15 +45,19 @@
     background-color: #f9f9f9;
   }
 
-  .ponomar-regular {
+  .logo {
     font-family: "Ponomar", system-ui;
     font-weight: 400;
     font-style: normal;
   }
+
+  .logo-header {
+    font-size: 100px;
+  }
 </style>
 
 <header>
-  <p class="ponomar-regular">::::bitquery</p>
+  <p class="logo">::::bitquery</p>
 </header>
 
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
