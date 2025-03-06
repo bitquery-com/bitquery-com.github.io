@@ -13,7 +13,7 @@
 
   footer {
     background-color: #f9f9f9;
-    padding: 0 25px;
+    padding: 70px 25px 25px 25px;
   }
   
   .ad-large {
@@ -39,7 +39,6 @@
   }
 
   .footer-section {
-    padding-top: 70px 25px;
   }
 
   .spacer {
