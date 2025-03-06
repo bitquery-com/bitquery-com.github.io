@@ -39,7 +39,18 @@
 
 <div style="height:50px"></div>
 
-<div style="width:100%; height: 250px; background: gray;">AD SPACE</div>
+<div
+  style="
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+    padding: 70px 0;
+    font-size: large;
+    font-weight: bold;
+  "
+>
+  AD SPACE
+</div>
 
 <div style="height:50px"></div>
 
