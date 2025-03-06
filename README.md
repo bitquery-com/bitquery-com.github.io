@@ -37,8 +37,8 @@
 
 <div class="spacer"></div>
 
-<div class="space" style="height: 500px">
-  <div style="width: 49%; height: 100%; float: left;">
+<div style="height: 500px">
+  <div class="space" style="width: 49%; height: 100%; float: left;">
     <div class="tradingview-widget-container">
       <div class="tradingview-widget-container__widget"></div>
       <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
