@@ -22,6 +22,10 @@
   .spacer {
     height: 25px;
   }
+
+  .space {
+    background-color: #f9f9f9;
+  }
 </style>
 
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
@@ -33,7 +37,7 @@
 
 <div class="spacer"></div>
 
-<div style="height: 500px">
+<div class="space" style="height: 500px">
   <div style="width: 50%; height: 100%; float: left;">
     <div class="tradingview-widget-container">
       <div class="tradingview-widget-container__widget"></div>
@@ -51,7 +55,7 @@
     </div>
   </div>
 
-  <div style="width: 50%; height: 100%; float: right;">
+  <div class="space" style="width: 50%; height: 100%; float: right;">
     <div class="tradingview-widget-container">
       <div class="tradingview-widget-container__widget"></div>
       <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
@@ -75,7 +79,7 @@
 
 <div class="spacer"></div>
 
-<div class="tradingview-widget-container">
+<div class="tradingview-widget-container space">
   <div class="tradingview-widget-container__widget"></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
@@ -109,7 +113,7 @@
 
 <div class="spacer"></div>
 
-<div class="tradingview-widget-container">
+<div class="tradingview-widget-container space">
   <div class="tradingview-widget-container__widget"></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-screener.js" async>
   {
