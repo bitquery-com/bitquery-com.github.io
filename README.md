@@ -140,26 +140,16 @@
 </div>
 
 <footer>
-  <section class="w-full bg-white">
-    <div class="px-8 py-12 mx-auto max-w-7xl">
-        <div class="grid grid-cols-2 gap-10 mb-3 md:grid-cols-3 lg:grid-cols-12 lg:gap-20">
-            <div class="col-span-3">
-                <a href="#_" class="text-xl font-black leading-none text-gray-900 select-none logo">tails.</a>
-                <p class="my-4 text-xs leading-normal text-gray-500">
-                    Beautifully hand-crafted components to help you build amazing pages.
-                </p>
-            </div>
-            <nav class="col-span-2 md:col-span-1 lg:col-span-2">
-                <p class="mb-3 text-xs font-semibold tracking-wider text-gray-400 uppercase">Contact</p>
-                <a href="#" class="flex mb-3 text-sm font-medium text-gray-500 transition hover:text-gray-700 md:mb-2 hover:text-primary">Advertising</a>
-                <a href="#" class="flex mb-3 text-sm font-medium text-gray-500 transition hover:text-gray-700 md:mb-2 hover:text-primary">Press</a>
-                <a href="#" class="flex mb-3 text-sm font-medium text-gray-500 transition hover:text-gray-700 md:mb-2 hover:text-primary">Email</a>
-                <a href="#" class="flex mb-3 text-sm font-medium text-gray-500 transition hover:text-gray-700 md:mb-2 hover:text-primary">Partners</a>
-                <a href="#" class="flex mb-3 text-sm font-medium text-gray-500 transition hover:text-gray-700 md:mb-2 hover:text-primary">Jobs</a>
+  <section>
+    <div>
+        <div>
+            <nav>
+                <p>Contact</p>
+                <a href="mailto:contact@bitquery.com">contact@bitquery.com</a>
             </nav>
         </div>
-        <div class="flex flex-col items-start justify-between pt-10 mt-10 border-t border-gray-100 md:flex-row md:items-center">
-            <p class="mb-6 text-sm text-left text-gray-600 md:mb-0">© Copyright 2021 Tails. All Rights Reserved.</p>
+        <div>
+            <p>© Copyright 2025. All Rights Reserved.</p>
         </div>
     </div>
   </section>
