@@ -2,7 +2,7 @@
 <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
 
 <div style="height: 500px">
-  <div style="width: 50%; float: left;">
+  <div style="width: 50%; height: 100%; float: left;">
     <div class="tradingview-widget-container">
       <div class="tradingview-widget-container__widget"></div>
       <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
@@ -19,7 +19,7 @@
     </div>
   </div>
 
-  <div style="width: 50%; float: right;">
+  <div style="width: 50%; height: 100%; float: right;">
     <div class="tradingview-widget-container">
       <div class="tradingview-widget-container__widget"></div>
       <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
