@@ -1,20 +1,29 @@
-<script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
-<div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
-
-<div style="height:25px"></div>
-
-<div
-  style="
+<style>
+  .ad-large {
     background-color: gray;
     text-align: center;
     width: 100%;
     padding: 70px 0;
     font-size: large;
     font-weight: bold;
-  "
->
-  AD SPACE
-</div>
+  }
+
+  .ad-small {
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+    padding: 25px 0;
+    font-size: large;
+    font-weight: bold;
+  }
+</style>
+
+<script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
+<div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
+
+<div style="height:25px"></div>
+
+<div class="ad-large">AD SPACE</div>
 
 <div style="height:25px"></div>
 
@@ -56,18 +65,7 @@
 
 <div style="height:25px"></div>
 
-<div
-  style="
-    background-color: gray;
-    text-align: center;
-    width: 100%;
-    padding: 25px 0;
-    font-size: large;
-    font-weight: bold;
-  "
->
-  AD SPACE
-</div>
+<div class="ad-small">AD SPACE</div>
 
 <div style="height:25px"></div>
 
@@ -101,18 +99,7 @@
 
 <div style="height:25px"></div>
 
-<div
-  style="
-    background-color: gray;
-    text-align: center;
-    width: 100%;
-    padding: 25px 0;
-    font-size: large;
-    font-weight: bold;
-  "
->
-  AD SPACE
-</div>
+<div class="ad-small">AD SPACE</div>
 
 <div style="height:25px"></div>
 
