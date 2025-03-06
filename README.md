@@ -12,7 +12,7 @@
   }
 
   footer {
-    background-color: #f9f9f9;
+    background-color: #e2e2ea;
     padding: 70px 25px 25px 25px;
   }
   
@@ -36,9 +36,6 @@
     border: 3px solid #f9f9f9;
     border-radius: 7px;
     color: #ececec;
-  }
-
-  .footer-section {
   }
 
   .spacer {
