@@ -61,7 +61,7 @@
     background-color: gray;
     text-align: center;
     width: 100%;
-    padding: 70px 0;
+    padding: 25px 0;
     font-size: large;
     font-weight: bold;
   "
@@ -106,7 +106,7 @@
     background-color: gray;
     text-align: center;
     width: 100%;
-    padding: 70px 0;
+    padding: 25px 0;
     font-size: large;
     font-weight: bold;
   "
