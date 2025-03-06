@@ -13,6 +13,7 @@
 
   footer {
     background-color: #f9f9f9;
+    padding: 0 25px;
   }
   
   .ad-large {
@@ -38,7 +39,7 @@
   }
 
   .footer-section {
-    padding-top: 70px;
+    padding-top: 70px 25px;
   }
 
   .spacer {
@@ -163,6 +164,8 @@
   }
   </script>
 </div>
+
+<div class="spacer"></div>
 
 <footer>
   <section class="footer-section">
