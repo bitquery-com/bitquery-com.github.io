@@ -44,21 +44,27 @@
   <div class="tradingview-widget-container__widget"></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
-    "width": "100%",
-    "height": "610",
-    "symbol": "BITSTAMP:BTCUSD",
-    "interval": "D",
-    "timezone": "exchange",
-    "theme": "light",
-    "backgroundColor": "rgba(255, 255, 255, 1)",
-    "style": "1",
-    "locale": "en",
-    "withdateranges": true,
-    "allow_symbol_change": true,
-    "details": true,
-    "calendar": false,
-    "support_host": "https://www.tradingview.com"
-  }
+  "width": "100%",
+  "height": "610",
+  "symbol": "MARKETSCOM:BITCOIN",
+  "interval": "D",
+  "timezone": "exchange",
+  "theme": "light",
+  "style": "2",
+  "locale": "en",
+  "backgroundColor": "rgba(255, 255, 255, 1)",
+  "withdateranges": true,
+  "allow_symbol_change": true,
+  "compareSymbols": [
+    {
+      "symbol": "MARKETSCOM:ETHEREUM",
+      "position": "SameScale"
+    }
+  ],
+  "details": true,
+  "calendar": false,
+  "support_host": "https://www.tradingview.com"
+}
   </script>
 </div>
 
