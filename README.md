@@ -157,7 +157,7 @@
     <div>
         <div>
             <nav>
-                <p>Contact</p>
+                <p style="font-weight:bold;">Contact</p>
                 <a href="mailto:contact@bitquery.com">contact@bitquery.com</a>
             </nav>
         </div>
