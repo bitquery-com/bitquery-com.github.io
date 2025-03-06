@@ -29,7 +29,7 @@
 </style>
 
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
-<div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
+<div class="livecoinwatch-widget-5 space" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
 
 <div class="spacer"></div>
 
