@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ponomar&display=swap" rel="stylesheet">
 <style>  
   header {
     display: flex;
@@ -43,10 +46,16 @@
   .space {
     background-color: #f9f9f9;
   }
+
+  .ponomar-regular {
+    font-family: "Ponomar", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
 </style>
 
 <header>
-  
+  <p class="ponomar-regular">::::bitquery</p>
 </header>
 
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
