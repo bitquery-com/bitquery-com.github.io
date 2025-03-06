@@ -1,11 +1,16 @@
 <style>
+  header {
+    height: 96px;
+    background-color: #f9f9f9;
+  }
+  
   .ad-large {
     text-align: center;
     width: 100%;
     padding: 70px 0;
     font-size: large;
     font-weight: bold;
-    border: 3px solid gray;
+    border: 3px solid #f9f9f9;
     border-radius: 7px;
   }
 
@@ -15,7 +20,7 @@
     padding: 25px 0;
     font-size: large;
     font-weight: bold;
-    border: 3px solid gray;
+    border: 3px solid #f9f9f9;
     border-radius: 7px;
   }
 
@@ -27,6 +32,10 @@
     background-color: #f9f9f9;
   }
 </style>
+
+<header>
+  
+</header>
 
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
 <div class="livecoinwatch-widget-5 space" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
