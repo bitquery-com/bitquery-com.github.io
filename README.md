@@ -37,6 +37,9 @@
   </div>
 </div>
 
+<div style="height:50px"></div>
+
+<div style="width:100%; height: 250px; background: gray;">AD SPACE</div>
 
 <div style="height:50px"></div>
 
