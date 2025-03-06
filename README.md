@@ -16,21 +16,10 @@
     padding: 70px 25px 25px 25px;
   }
   
-  .ad-large {
+  .ad {
     text-align: center;
     width: 100%;
-    padding: 70px 0;
-    font-size: large;
-    font-weight: bold;
-    border: 3px solid #f9f9f9;
-    border-radius: 7px;
-    color: #ececec;
-  }
-
-  .ad-small {
-    text-align: center;
-    width: 100%;
-    padding: 25px 0;
+    padding: 45px 0;
     font-size: large;
     font-weight: bold;
     border: 3px solid #f9f9f9;
@@ -66,7 +55,7 @@
 
 <div class="spacer"></div>
 
-<div class="ad-large">AD SPACE</div>
+<div class="ad">AD SPACE</div>
 
 <div class="spacer"></div>
 
@@ -108,7 +97,7 @@
 
 <div class="spacer"></div>
 
-<div class="ad-small">AD SPACE</div>
+<div class="ad">AD SPACE</div>
 
 <div class="spacer"></div>
 
@@ -142,7 +131,7 @@
 
 <div class="spacer"></div>
 
-<div class="ad-small">AD SPACE</div>
+<div class="ad">AD SPACE</div>
 
 <div class="spacer"></div>
 
