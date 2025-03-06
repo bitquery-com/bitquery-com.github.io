@@ -12,6 +12,7 @@
     font-weight: bold;
     border: 3px solid #f9f9f9;
     border-radius: 7px;
+    color: #ececec;
   }
 
   .ad-small {
@@ -22,6 +23,7 @@
     font-weight: bold;
     border: 3px solid #f9f9f9;
     border-radius: 7px;
+    color: #ececec;
   }
 
   .spacer {
