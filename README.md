@@ -1,7 +1,7 @@
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
 <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
 
-<div>
+<div style="height: 500px">
   <div style="width: 50%; float: left;">
     <div class="tradingview-widget-container">
       <div class="tradingview-widget-container__widget"></div>
