@@ -1,5 +1,11 @@
-<style>
+<style>  
   header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20vmin;
+    font-weight: 900;
+    color: #36364c;
     height: 96px;
     background-color: #f9f9f9;
   }
