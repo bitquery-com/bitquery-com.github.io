@@ -152,7 +152,7 @@
                 <a href="mailto:contact@bitquery.com">contact@bitquery.com</a>
             </nav>
         </div>
-        <div>
+        <div style="text-align: center;">
             <p>© Copyright 2025. All Rights Reserved.</p>
         </div>
     </div>
