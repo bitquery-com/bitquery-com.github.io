@@ -2,35 +2,38 @@
 <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
 
 <div>
-  <div class="tradingview-widget-container">
-    <div class="tradingview-widget-container__widget"></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
-    {
-      "width": "100%",
-      "height": "100%",
-      "colorTheme": "light",
-      "isTransparent": true,
-      "locale": "en",
-      "importanceFilter": "0,1",
-      "countryFilter": "ar,au,br,ca,cn,fr,de,in,id,it,jp,kr,mx,ru,sa,za,tr,gb,us,eu"
-    }
-    </script>
+  <div style="width: 50%; float: left;">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+      {
+        "width": "100%",
+        "height": "100%",
+        "colorTheme": "light",
+        "isTransparent": true,
+        "locale": "en",
+        "importanceFilter": "0,1",
+        "countryFilter": "ar,au,br,ca,cn,fr,de,in,id,it,jp,kr,mx,ru,sa,za,tr,gb,us,eu"
+      }
+      </script>
+    </div>
   </div>
 
-  <div class="tradingview-widget-container">
-    <div class="tradingview-widget-container__widget"></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
-    {
-      "feedMode": "market",
-      "market": "crypto",
-      "isTransparent": true,
-      "displayMode": "adaptive",
-      "width": 100%,
-      "height": 550,
-      "colorTheme": "light",
-      "locale": "en"
-    }
-    </script>
+  <div style="width: 50%; float: right;">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
+      {
+        "feedMode": "all_symbols",
+        "isTransparent": true,
+        "displayMode": "regular",
+        "width": "100%",
+        "height": "100%",
+        "colorTheme": "light",
+        "locale": "en"
+      }
+      </script>
+    </div>
   </div>
 </div>
 
